@@ -1,0 +1,5 @@
+{
+    "description" : "Given an array of distinct integers, find length of the longest subarray which contains numbers that can be arranged in a continuous sequence.",
+    "ref": "http://www.geeksforgeeks.org/length-largest-subarray-contiguous-elements-set-1/",
+    "input": "1, 56, 58, 57, 90, 92, 94, 93, 91, 45"
+}

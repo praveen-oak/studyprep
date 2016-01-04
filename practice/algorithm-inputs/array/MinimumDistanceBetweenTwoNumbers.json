@@ -1,0 +1,7 @@
+{
+    "description" : "Given an unsorted array arr[] and two numbers x and y, find the minimum distance between x and y in arr[]. The array might also contain duplicates. You may assume that both x and y are different and present in arr[].",
+    "ref": "http://www.geeksforgeeks.org/find-the-minimum-distance-between-two-numbers/",
+    "input": "3, 5, 4, 2, 6, 5, 6, 6, 5, 4, 8, 3",
+    "x" : 3,
+    "y" : 6
+}

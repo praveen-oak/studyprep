@@ -1,0 +1,6 @@
+{
+    "description" : "Find the maximum repeating number in O(n) time and O(1) extra space",
+    "ref": "http://www.geeksforgeeks.org/find-the-maximum-repeating-number-in-ok-time/",
+    "input" : "2, 3, 3, 5, 3, 4, 1, 7",
+    "k" : 8
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:hdp="http://www.springframework.org/schema/hadoop"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+				http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd
+				http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.0.xsd
+				http://www.springframework.org/schema/hadoop http://www.springframework.org/schema/hadoop/spring-hadoop.xsd">
+
+	<context:property-placeholder location="classpath:db.properties,classpath:application.properties" />
+
+    <bean id="algorithmProperties" class="com.practice.algorithms.utils.AlgorithmProperties">
+        <property name="dbProperties">
+            <util:properties location="classpath:db.properties" />
+        </property>
+        <property name="applicationProperties">
+            <util:properties location="classpath:application.properties" />
+        </property>
+    </bean>
+
+    <bean id="algorithmFacade" class="com.practice.algorithms.facades.AlgorithmFacade">
+        <constructor-arg name="invokePackage" value="${invokePackage}"/>
+    </bean>
+
+    <bean id="dummyAlgorithm" class="com.practice.algorithms.core.dummy.DummyAlgorithm"/>
+
+    <bean id="commonHelper" class="com.practice.algorithms.utils.CommonHelper">
+        <constructor-arg name="inputPath" value="${inputPath}"/>
+    </bean>
+
+</beans>

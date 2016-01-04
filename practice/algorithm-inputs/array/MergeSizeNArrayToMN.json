@@ -1,0 +1,9 @@
+{
+    "description" : "Merge an array of size n into another array of size m+n. Both arrays are sorted and result should also be sorted",
+    "ref" : "http://www.geeksforgeeks.org/merge-one-array-of-size-n-into-another-one-of-size-mn/",
+    "input" : {
+        "ArrayMN": "2, 8, -111, -111, -111, 13, -111, 15, 20",
+        "ArrayN": "5, 7, 9, 25"
+    },
+    "emptyElement" : -111
+}

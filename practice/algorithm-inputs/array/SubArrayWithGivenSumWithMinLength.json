@@ -1,0 +1,6 @@
+{
+    "description" : "Smallest sub-array with sum equal to a given value",
+    "ref" : "Modified version for ref: http://www.geeksforgeeks.org/find-subarray-with-given-sum/",
+    "input" : "1, 11, 100, 1, 0, 200, 3, 2, 1, 250",
+    "sum" : 280
+}

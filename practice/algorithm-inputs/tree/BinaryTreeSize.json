@@ -1,0 +1,5 @@
+{
+    "description" : "Write a program to Calculate Size of a tree. Size of a tree is the number of elements present in the tree.",
+    "ref" : "http://www.geeksforgeeks.org/write-a-c-program-to-calculate-size-of-a-tree/",
+    "input": "5, 2, 18, -4, 3, 11"
+}

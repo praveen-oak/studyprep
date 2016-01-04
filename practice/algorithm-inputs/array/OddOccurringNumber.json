@@ -1,0 +1,5 @@
+{
+    "description" : "Find the Number Occurring Odd Number of Times",
+    "ref" : "http://www.geeksforgeeks.org/find-the-number-occurring-odd-number-of-times/",
+    "input": "1, 2, 3, 2, 3, 1, 3"
+}

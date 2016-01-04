@@ -1,0 +1,5 @@
+{
+    "description" : "Find the Increasing subsequence of length three with maximum product",
+    "ref" : "http://www.geeksforgeeks.org/increasing-subsequence-of-length-three-with-maximum-product/",
+    "input" : "6, 7, 8, 1, 2, 3, 9, 10"
+}

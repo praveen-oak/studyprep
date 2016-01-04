@@ -1,0 +1,5 @@
+{
+    "description" : "Given an unsorted array of numbers, write a function that returns true if array consists of consecutive numbers.",
+    "ref": "http://www.geeksforgeeks.org/check-if-array-elements-are-consecutive/",
+    "input": "83, 78, 80, 81, 79, 82"
+}

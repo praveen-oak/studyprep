@@ -1,0 +1,9 @@
+{
+    "description" : "Given three arrays sorted in non-decreasing order, print all common elements in these arrays.",
+    "ref": "http://www.geeksforgeeks.org/find-common-elements-three-sorted-arrays/",
+    "input": {
+        "inputDataOne" : "1, 5, 10, 20, 40, 80",
+        "inputDataTwo" : "6, 7, 20, 80, 100",
+        "inputDataThree" : "3, 4, 15, 20, 30, 70, 80, 120"
+    }
+}

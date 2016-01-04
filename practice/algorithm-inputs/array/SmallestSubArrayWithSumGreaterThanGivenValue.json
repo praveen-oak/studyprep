@@ -1,0 +1,6 @@
+{
+    "description" : "Smallest sub-array with sum greater than a given value",
+    "ref" : "http://www.geeksforgeeks.org/minimum-length-subarray-sum-greater-given-value/",
+    "input" : "1, 11, 100, 1, 0, 200, 3, 2, 1, 250",
+    "sum" : 280
+}

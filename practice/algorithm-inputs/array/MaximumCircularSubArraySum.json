@@ -1,0 +1,5 @@
+{
+    "description" : "Given n numbers (both +ve and -ve), arranged in a circle, fnd the maximum sum of consecutive number.",
+    "ref": "http://www.geeksforgeeks.org/maximum-contiguous-circular-sum/",
+    "input": "11, 10, -20, 5, -3, -5, 8, -13, 10"
+}

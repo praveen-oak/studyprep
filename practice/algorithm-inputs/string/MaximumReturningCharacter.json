@@ -1,0 +1,5 @@
+{
+    "description" : "Write an efficient C function to return maximum occurring character in the input string e.g., if input string is “test string” then function should return ‘t’.",
+    "ref": "http://www.geeksforgeeks.org/return-maximum-occurring-character-in-the-input-string/",
+    "input": "test string"
+}

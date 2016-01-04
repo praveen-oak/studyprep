@@ -1,0 +1,6 @@
+{
+    "description" : "Write a function which takes an array and emits the majority element (if it exists), otherwise prints NONE",
+    "ref" : "http://www.geeksforgeeks.org/majority-element/",
+    "input": "3 , 3, 4, 2, 4, 4, 2, 4, 4"
+//    "input": "3, 3, 4, 2, 4, 4, 2, 4"
+}

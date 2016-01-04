@@ -1,0 +1,6 @@
+{
+    "description" : "Write a C function to find if a given integer x appears more than n/2 times in a sorted array of n integers.",
+    "ref" : "http://www.geeksforgeeks.org/check-for-majority-element-in-a-sorted-array/",
+    "input": "1, 2, 3, 3, 3, 3, 10",
+    "majorityElement" : 10
+}

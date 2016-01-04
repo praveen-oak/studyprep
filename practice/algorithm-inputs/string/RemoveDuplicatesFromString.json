@@ -1,0 +1,5 @@
+{
+    "description" : "Remove all duplicates from a given string",
+    "ref": "http://www.geeksforgeeks.org/remove-all-duplicates-from-the-input-string/",
+    "input": "geeksforgeeks"
+}

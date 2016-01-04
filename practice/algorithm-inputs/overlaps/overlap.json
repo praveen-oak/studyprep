@@ -1,0 +1,15 @@
+{
+    "Smaller Elements on Right Side" : "http://www.geeksforgeeks.org/count-smaller-elements-on-right-side/",
+    "Longest Increasing Sub sequence" : {
+        "1" : "http://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/",
+        "2" : "http://www.geeksforgeeks.org/dynamic-programming-set-3-longest-increasing-subsequence/",
+        "3" : "http://www.geeksforgeeks.org/construction-of-longest-monotonically-increasing-subsequence-n-log-n/"
+    },
+    "tough 0 1 sum" : "http://www.geeksforgeeks.org/largest-subarray-with-equal-number-of-0s-and-1s/",
+    "Find the Increasing subsequence of length three with maximum product. AVL tree need to be used." :
+        "http://www.geeksforgeeks.org/increasing-subsequence-of-length-three-with-maximum-product/",
+    "tough" : "http://www.geeksforgeeks.org/count-possible-groups-size-2-3-sum-multiple-3/",
+    "tough 1" : "http://www.geeksforgeeks.org/rearrange-given-array-place/",
+    "tough logic" : "http://www.geeksforgeeks.org/find-smallest-value-represented-sum-subset-given-array/",
+    "tough nut and bolt" : "http://www.geeksforgeeks.org/nuts-bolts-problem-lock-key-problem/"
+}

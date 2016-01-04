@@ -1,0 +1,6 @@
+{
+    "description" : "Write a function rotate(ar[], d, n) that rotates arr[] of size n by d elements.",
+    "ref" : "http://www.geeksforgeeks.org/program-for-array-rotation-continued-reversal-algorithm/",
+    "input": "1, 2, 3, 4, 5, 6, 7",
+    "rotationDelta" : 1
+}
