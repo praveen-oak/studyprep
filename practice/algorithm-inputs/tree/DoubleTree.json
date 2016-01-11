@@ -1,0 +1,5 @@
+{
+    "description" : "Write a program that converts a given tree to its Double tree. To create Double tree of the given tree, create a new duplicate for each node, and insert the duplicate as the left child of the original node.",
+    "ref" : "http://www.geeksforgeeks.org/double-tree/",
+    "input": "5, 2, 18, -4, 3, 11, 4"
+}

@@ -1,0 +1,11 @@
+{
+    "description" : "Construct Tree from given Inorder and Preorder traversals",
+    "ref" : "http://www.geeksforgeeks.org/construct-tree-from-given-inorder-and-preorder-traversal/",
+    "input": {
+        "inOrder" : "4, 2, 5, 1, 6, 3",
+        "preOrder" : "1, 2, 4, 5, 3, 6"
+    }
+}
+//                1
+//        2               3
+//    4       5       6

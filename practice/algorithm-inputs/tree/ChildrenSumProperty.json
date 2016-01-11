@@ -1,0 +1,5 @@
+{
+    "description" : "Check for Children Sum Property in a Binary Tree.",
+    "ref" : "http://www.geeksforgeeks.org/check-for-children-sum-property-in-a-binary-tree/",
+    "input": "10, 8, 2, 3, 5, 2"
+}

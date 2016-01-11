@@ -1,0 +1,5 @@
+{
+    "description" : "Program to count leaf nodes in a binary tree",
+    "ref" : "http://www.geeksforgeeks.org/write-a-c-program-to-get-count-of-leaf-nodes-in-a-binary-tree/",
+    "input": "5, 2, 18, -4, 3, 11"
+}

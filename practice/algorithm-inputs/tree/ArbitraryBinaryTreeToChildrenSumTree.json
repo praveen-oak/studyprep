@@ -1,0 +1,5 @@
+{
+    "description" : "Given an arbitrary binary tree, convert it to a binary tree that holds Children Sum Property. You can only increment data values in any node (You cannot change structure of tree and cannot decrement value of any node).",
+    "ref" : "http://www.geeksforgeeks.org/convert-an-arbitrary-binary-tree-to-a-tree-that-holds-children-sum-property/",
+    "input": "50, 7, 2, 3, 5, 1, 30"
+}

@@ -1,0 +1,5 @@
+{
+    "description" : "How to determine if a binary tree is height-balanced?",
+    "ref" : "http://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced/",
+    "input": "5, 2, 18, -4, 3, 11"
+}
