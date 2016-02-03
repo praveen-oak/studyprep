@@ -27,6 +27,8 @@ public class Decorator implements IDesignPatterns
             log.error("Decorator.run  -  Exception in running algorithm", e);
         }
 
+        StringBuilder myName = new StringBuilder("domanokz");
+
         return input.toString();
     }
 

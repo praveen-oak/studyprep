@@ -3,8 +3,7 @@ package com.practice.algorithms.utils.datastructures;
 import com.practice.algorithms.models.TreeNode;
 import org.apache.log4j.Logger;
 
-import java.util.List;
-import java.util.LinkedList;
+import java.util.*;
 
 public class BinarySearchTree implements IBinarySearchTree
 {
